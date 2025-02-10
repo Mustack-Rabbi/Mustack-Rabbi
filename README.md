@@ -1,14 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Mustack-Rabbi 👋
 
-**Mustack-Rabbi/Mustack-Rabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning new technologies and improving my skills in software development.
+- 👯 I’m looking to collaborate on open source projects and innovative ideas.
+- 💬 Ask me about anything related to programming, I am happy to help.
+- 📫 How to reach me: [mustackrabbi@gmail.com](mailto:mustackrabbi@gmail.com)
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: Flutter
+- **Tools**: Git, Postman
+<!-- - **Databases**: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+- [Project 1](https://github.com/Mustack-Rabbi/project1): Time Management Apps.
+-->
+## GitHub Stats
+![Mustack-Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustack-Rabbi&show_icons=true&theme=radical)
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mustack-rabbi/)
+- [Personal Website](#)
+
+Thanks for visiting my profile!
