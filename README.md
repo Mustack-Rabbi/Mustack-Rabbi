@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 👯 I’m looking to collaborate on open source projects and innovative ideas.
 - 💬 Ask me about anything related to programming, I am happy to help.
-- 📫 How to reach me: [mustackrabbi@gmail.com](mailto:mustackrabbi@gmail.com)
+
 
 ## Skills
 - **Languages**: Dart, C, Java
